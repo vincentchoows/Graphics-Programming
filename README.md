@@ -49,7 +49,7 @@ The design of the robot is separated into several parts, including the head, bod
 
 ## Demo 
 
-https://github.com/vincentchoows/Graphics-Programming/blob/main/image_3.png
+![Alt Text](https://github.com/vincentchoows/Graphics-Programming/blob/main/image_3.png)
 
 
 ## License
